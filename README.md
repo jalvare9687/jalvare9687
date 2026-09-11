@@ -7,11 +7,11 @@
 
 ---
 
-I build backend systems in Java and Python, and I do robotics research alongside my degree. Most of what I work on sits between the two: services that have to be correct, observable, and fast enough that the person on the other end never notices the latency.
+I build backends in Java and Python, and I do robotics research alongside my degree. Currently getting my front-end development skills up with React.
 
 This summer I was systems, backend, and evaluation lead on a sprint-based research team building a real-time voice-driven AI classroom simulator for pre-service teacher training. Working in the team's existing FastAPI codebase, I cut first-audio latency 61% and total turn latency 58%, authored a database migration for turn-level interruption tracking, and rebuilt the micro-expression response hierarchy for a new persona schema.
 
-Now I'm an undergraduate researcher at GSU's **CHAI Center**, working on ROS2 localization — wheel-encoder odometry and SLAM Toolbox integration — and helping shape an early-stage indoor drone-swarm concept for fire evacuation.
+Now I'm an undergraduate researcher at GSU's **CHAI Center**,  helping shape an early-stage indoor drone-swarm concept for fire/ natural disaster evacuation.
 
 I'm looking for **Summer 2027 software engineering internships**.
 
